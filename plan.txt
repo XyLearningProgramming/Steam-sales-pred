@@ -1,0 +1,3 @@
+Predicting top-selling games on Steam
+
+Using data about games selling on the platform Steam (Source: https://www.kaggle.com/nikdavis/steam-store-games), Our group will use machine learning models to predict what kind of games (category, publisher, positive ratings/negative ratings, price, etc.) will sell to over 50000 players. The test set can be more recent Steam games. And the most accurate model will enable us to predict sales of games coming to Steam platform if we replace positive rating by some other comparable rating scores (Metacritic, IGN, etc.).
